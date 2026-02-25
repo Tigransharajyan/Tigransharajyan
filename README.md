@@ -53,7 +53,7 @@ My expertise spans APIs, databases, and distributed architectures — with a str
 ![Python](https://img.shields.io/badge/Python-%231a1b26?style=for-the-badge&logo=python&logoColor=%233776AB)
 ![Java](https://img.shields.io/badge/Java-%231a1b26?style=for-the-badge&logo=java&logoColor=%23c0caf5)
 ![C](https://img.shields.io/badge/C-%231a1b26?style=for-the-badge&logo=c&logoColor=%23c0caf5)
-![C#]([https://img.shields.io/badge/C++-%231a1b26?style=for-the-badge&logo=cplusplus&logoColor=%23c0caf5](https://img.shields.io/badge/C%23-%231a1b26?style=for-the-badge&logo=csharp&logoColor=%23c0caf5))
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 
 ---
 
