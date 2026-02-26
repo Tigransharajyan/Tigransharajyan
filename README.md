@@ -59,5 +59,5 @@ My expertise spans APIs, databases, and distributed architectures — with a str
 
 ## 📬 Contact
 
-- **Telegram:** [@xdesai](https://t.me/shaatimi)
-- **Email:** [xdesai@proton.me](mailto:shatimi@proton.me)
+- **Telegram:** [@shaatimi](https://t.me/shaatimi)
+- **Email:** [shatimi@proton.me](mailto:shatimi@proton.me)
